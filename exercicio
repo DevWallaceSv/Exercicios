@@ -30,6 +30,4 @@ console.log('impar');
 console.log(impar);
 
 
-
-
 console.log();
